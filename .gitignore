@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+react-crash-2024-main
 dist
 dist-ssr
 *.local
