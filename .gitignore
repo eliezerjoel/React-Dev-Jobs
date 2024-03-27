@@ -12,6 +12,7 @@ react-crash-2024-main
 dist
 dist-ssr
 *.local
+README.md
 
 # Editor directories and files
 .vscode/*
